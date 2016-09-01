@@ -1,0 +1,21 @@
+mobileshowgroup.com
+login  jelyhxzi_mobshgr 
+password @bt#m}z?
+
+
+Positron Bohemia.com / shmaily.ru
+db_nAME  nickv850_positron, nickv850_daily
+DB_USER  nickv850_bohemia
+db_pass  2DGtADRx
+
+
+/** Defining WP_HOME and WP_SITEURL */
+define('WP_HOME', 'http://shmaily.ru/');
+define('WP_SITEURL', 'http://shmaily.ru/');
+
+
+
+Filezila
+FTP-сервер : 89.108.105.109
+Логин      : nickv850
+Пароль     : lRpO73LjTv
